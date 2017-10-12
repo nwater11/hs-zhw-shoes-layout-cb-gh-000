@@ -36,11 +36,16 @@
 
 [class*="col-"] {
   margin-left: 2%;
-  margin-bottom: 20px;
+  
 }
 
 .first {
   margin-left: 0%;
+}
+
+section {
+  margin-bottom: 20px;
+  
 }
 
 
